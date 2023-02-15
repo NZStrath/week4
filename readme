@@ -1,0 +1,11 @@
+This is a program that uses very basic python code to calculate a bill to include tax.
+
+The main file is "homepage.py".
+"functions.py" is a module storing various functionalities of the program.
+
+The program first begins by taking 2 inputs from the user: their name and the amount spent on the tab.
+
+The program then calculates the bill to include tax, shows this new cost to the user and displays a send-off message
+that is a standard form stored in "read.txt".
+
+The amount spent is also pushed and stored into the "write.txt".
